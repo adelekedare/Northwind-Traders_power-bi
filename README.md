@@ -1,6 +1,8 @@
 # Northwind-Traders_power-bi
+Dashboard Link: https://mavenanalytics.io/project/5897
+
 Sales Dashboard
-About this project
+
 Here are key findings based on the data provided:
 
 Total Revenue: The revenue showed an upward trend, increasing by 111.75% between 2013 and 2015. This indicates positive growth and financial success for the business during that period.
